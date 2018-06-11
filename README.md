@@ -9,4 +9,4 @@ The analysis is broken down into three notebooks. In order:
 2. Learn.ipynb
 3. Evaluate.ipynb
 
-Each with a self explainatory title. 
+I highly recommend downloading and viewing the Learn.ipynb from your own PC. I neglected to remember that GitHub does not supress the output from training, resulting in many many lines of output that one has to scroll through. 
